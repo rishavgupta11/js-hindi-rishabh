@@ -1,5 +1,5 @@
 # Projects related to DOM
-## Project 1:
+## Project 1: Color Scheme Switch
 
 ```javascript
 console.log("rishabh")
